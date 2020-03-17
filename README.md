@@ -12,5 +12,5 @@ npm start
 * Оказ при бронировании на некорректную или забронированную дату.
 ## Авторы
 - [Александр Полубнев](https://github.com/alexpolubnev)
-- [Михаил Вьюжанин](https://github.com/alexpolubnev)
+- [Михаил Вьюжанин](https://github.com/vyuzzzh)
 - [Вероника Ченюк](https://github.com/VeronicaChenyuk)
